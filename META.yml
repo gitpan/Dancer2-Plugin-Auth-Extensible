@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/racke/Dancer2-Plugin-Auth-Extensible/issues
   homepage: https://github.com/racke/Dancer2-Plugin-Auth-Extensible/
   repository: https://github.com/racke/Dancer2-Plugin-Auth-Extensible
-version: '0.301'
+version: '0.302'
