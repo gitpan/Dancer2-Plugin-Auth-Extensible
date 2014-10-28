@@ -33,7 +33,7 @@
       "runtime" : {
          "requires" : {
             "Crypt::SaltedHash" : "0",
-            "Dancer2" : "0",
+            "Dancer2" : "0.15",
             "Mock::Quick" : "0",
             "Test::More" : "0",
             "YAML" : "0"
@@ -50,5 +50,5 @@
          "url" : "https://github.com/racke/Dancer2-Plugin-Auth-Extensible"
       }
    },
-   "version" : "0.302"
+   "version" : "0.303"
 }
